@@ -1,5 +1,5 @@
 ## Azur Word
-<p> Advanced free word editor. Status: Uploading…</p>
+<p> Advanced free word editor. <a href="https://drive.google.com/file/d/1_ZpGUgHJc7k4Wc1hPFfNZEdSWmit64db/view?usp=sharing">Download Setup file </a></p>
 <p> Version 2019 (Build 14.9.2) </p>
 
 ## A powerfull word editor with beautiful user interface
@@ -31,9 +31,9 @@
 - <p>Created in Visual Studio 2019 and <a href="https://www.devexpress.com/">DevExpress </a> </p>
 - <p>Framework you may need: <a href="https://dotnet.microsoft.com/download/dotnet-framework/net48">Net.Framework 4.8</a> </p>
 - <p>Only include the .exe and not the resource!</p>
-- <p>Size of the file 'Ready to run': 41.8 MB (43,838,369 bytes) </p>
+- <p>Size of the file 'Ready to run': 41.8 MB (43,838,369 bytes) status: Uploading…</p>
 - <p>Size of the file 'Setup': 57.8 MB (60,625,118 bytes) </p>
-- <p>It will be available to download from Google Drive status: Uploading…</p>
+- <p>It will be available to download from Google Drive </p>
 
 <p><h2>license:</h2></p>
 

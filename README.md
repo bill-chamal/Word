@@ -1,5 +1,5 @@
 ## Azur Word
-<p> Advanced free word editor </p>
+<p> Advanced free word editor. Status: Uploading…</p>
 <p> Version 2019 (Build 14.9.2) </p>
 
 ## A powerfull word editor with beautiful user interface
@@ -33,7 +33,7 @@
 - <p>Only include the .exe and not the resource!</p>
 - <p>Size of the file 'Ready to run': 41.8 MB (43,838,369 bytes) </p>
 - <p>Size of the file 'Setup': 57.8 MB (60,625,118 bytes) </p>
-- <p>It will be available to download from Google Drive </p>
+- <p>It will be available to download from Google Drive status: Uploading…</p>
 
 <p><h2>license:</h2></p>
 

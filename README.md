@@ -33,6 +33,7 @@
 - <p>Only include the .exe and not the resource!</p>
 - <p>Size of the file 'Ready to run': 41.8 MB (43,838,369 bytes) </p>
 - <p>Size of the file 'Setup': 57.8 MB (60,625,118 bytes) </p>
+- <p>It will be available to download from Google Drive </p>
 
 <p><h2>license:</h2></p>
 

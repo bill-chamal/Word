@@ -31,9 +31,13 @@
 - <p>Created in Visual Studio 2019 and <a href="https://www.devexpress.com/">DevExpress </a> </p>
 - <p>Framework you may need: <a href="https://dotnet.microsoft.com/download/dotnet-framework/net48">Net.Framework 4.8</a> </p>
 - <p>Only include the .exe and not the resource!</p>
-- <p>Size of the file 'Ready to run': 41.8 MB (43,838,369 bytes) status: Uploading…</p>
 - <p>Size of the file 'Setup': 57.8 MB (60,625,118 bytes) </p>
-- <p>It will be available to download from Google Drive </p>
+- <p>It will be available to download only from Google Drive </p>
+
+<p> <h2> Downloads: </h2> </p>
+
+- <p>Download from Google Drive <a href="https://drive.google.com/file/d/1_ZpGUgHJc7k4Wc1hPFfNZEdSWmit64db/view?usp=sharing"> here</a></p>
+
 
 <p><h2>license:</h2></p>
 

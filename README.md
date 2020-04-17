@@ -1,5 +1,5 @@
 ## Azur Word
-<p> Advanced free word editor. <a href="https://drive.google.com/file/d/1_ZpGUgHJc7k4Wc1hPFfNZEdSWmit64db/view?usp=sharing">Download Setup file here  (removed)</a></p>
+<p> Advanced free word editor. <a href="https://drive.google.com/file/d/1_ZpGUgHJc7k4Wc1hPFfNZEdSWmit64db/view?usp=sharing">Download Setup file here</a> (removed)</p>
 <p> Version 2019 (Build 14.9.3) </p>
 
 ## A powerfull word editor with beautiful user interface
@@ -36,7 +36,7 @@
 
 <p> <h2> Downloads: </h2> </p>
 
-- <p>Download from Google Drive <a href="https://drive.google.com/file/d/1_ZpGUgHJc7k4Wc1hPFfNZEdSWmit64db/view?usp=sharing"> here  (removed)</a></p>
+- <p>Download from Google Drive <a href="https://drive.google.com/file/d/1_ZpGUgHJc7k4Wc1hPFfNZEdSWmit64db/view?usp=sharing"> here  </a>   (removed, security essues❌)</p>
 
 
 <p><h2>license:</h2></p>

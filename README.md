@@ -36,7 +36,7 @@
 
 <p> <h2> Downloads: </h2> </p>
 
-- <p>Download from Google Drive <a href="https://drive.google.com/file/d/1_ZpGUgHJc7k4Wc1hPFfNZEdSWmit64db/view?usp=sharing"> here  </a>   (removed, security essues❌)</p>
+- <p>Download from Google Drive <a href="https://drive.google.com/file/d/1_ZpGUgHJc7k4Wc1hPFfNZEdSWmit64db/view?usp=sharing"> here  </a>   (removed, avaliable in Summer)</p>
 
 
 <p><h2>license:</h2></p>
